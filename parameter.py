@@ -1,5 +1,5 @@
 # saving path
-FOLDER_NAME = '09_30_0.051'
+FOLDER_NAME = 'orion'
 model_path = f'model/{FOLDER_NAME}'
 train_path = f'train/{FOLDER_NAME}'
 gifs_path = f'gifs/{FOLDER_NAME}'
