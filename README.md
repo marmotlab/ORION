@@ -10,7 +10,9 @@
 
 🔹 ORION's paper can be found [here](https://arxiv.org/abs/2601.01155).
 
-<video src="imgs/orion_ros.mp4" controls autoplay loop muted width="500"></video>
+<p align="center">
+  <img src="imgs/orion_ros.gif" width="500">
+</p>
 
 </div>
 
