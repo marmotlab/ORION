@@ -97,7 +97,7 @@ ORION is inspired by following works, and we thank them for their contributions!
 
 + [Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area](https://proceedings.mlr.press/v229/liang23a.html), CoRL 2023
 + [The Option-Critic Architecture](https://dl.acm.org/doi/10.5555/3298483.3298491), AAAI 2017
-+ [ARiADNE ROS Planner](https://github.com/marmotlab/ARiADNE-ROS-Planner)
++ [ARiADNE ROS Planner](https://github.com/marmotlab/ARiADNE-ROS-Planner), ICRA 2023/RA-L 2024
 + [CMU Development environment](https://www.cmu-exploration.com/development-environment)
 + [Octomap](https://octomap.github.io/)
 
