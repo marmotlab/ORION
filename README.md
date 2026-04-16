@@ -73,11 +73,9 @@ python test_driver.py
 ```
 Inline comments are provided in both files to facilitate parameter configuration.
 
-### Roadmap
+### ROS2-based Deployment
 
-- ✅ ORION paper released: https://arxiv.org/abs/2601.01155
-- ✅ Training and evaluation code released
-- ⏳ ROS-based implementation (coming soon)
+We provide a ROS2-based deployment of ORION in the [Multi-Robot-Development-Environment](https://github.com/marmotlab/Multi-Robot-Exploration-Development-Environment). This repository offers a multi-agent navigation and exploration framework, along with several simulation environments for development and evaluation.
 
 
 ### Credit
@@ -93,7 +91,7 @@ If you find this work helpful, please consider citing:
 }
 ```
 
-ORION is inspired by following works, and we thank them for their contributions!
+ORION is inspired by the following works, and we thank them for their contributions!
 
 + [Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area](https://proceedings.mlr.press/v229/liang23a.html), CoRL 2023
 + [The Option-Critic Architecture](https://dl.acm.org/doi/10.5555/3298483.3298491), AAAI 2017
