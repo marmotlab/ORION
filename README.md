@@ -2,13 +2,9 @@
 
 <img src="imgs/orion_logo cropped.png" width="250"/>
 
-## ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation
+## [RAL 2026] Public code and model for [ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation](https://arxiv.org/abs/2601.01155).
 
-🔹 **ORION** is an efficient RL planner for multi-agent navigation in partially known environments. 
-
-🔹 **ORION** enables real-time, decentralized cooperation by coordinating individual target-reaching and team-level online uncertainty reduction via option-based networks and dual-stage navigation strategy.
-
-🔹 ORION's paper can be found [here](https://arxiv.org/abs/2601.01155).
+🔹 **ORION** is an efficient RL planner for multi-agent navigation in partially known environments. It enables real-time, decentralized cooperation by coordinating individual target-reaching and team-level online uncertainty reduction via option-based networks and dual-stage navigation strategy.
 
 <p align="center">
   <img src="imgs/orion_ros.gif" width="500">
