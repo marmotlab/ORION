@@ -79,11 +79,12 @@ We provide a ROS2-based deployment of ORION in the [Multi-Robot-Development-Envi
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@article{shizhe2026orion,
+@article{zhang2026orion,
   title={ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation},
-  author={Shizhe, Zhang and Jingsong, Liang and Zhitao, Zhou and Shuhan, Ye and Yizhuo, Wang and Derek, Tan Ming Siang and Jimmy, Chiun and Yuhong, Cao and Guillaume, Sartoretti},
-  journal={arXiv preprint arXiv:2601.01155},
-  year={2026}
+  author={Zhang, Shizhe and Liang, Jingsong and Zhou, Zhitao and Ye, Shuhan and Wang, Yizhuo and Tan, Derek Ming Siang and Chiun, Jimmy and Cao, Yuhong and Sartoretti, Guillaume},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
